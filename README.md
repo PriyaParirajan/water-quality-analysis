@@ -45,25 +45,30 @@ If your notebook and csv files are in different places you can write the whole p
     df=pd.read_csv('../input/water-potability/water_potability.csv')
 ## Logistic Regression: Results
 Accuracy : 0.7474747474747475
+
 Precision : 0.7585061443932412
+
 Recall : 0.5384479717813051
+
 ## KNeighbours: Results
 Accuracy : 0.7474747474747475
+
 Precision : 0.7585061443932412
+
 Recall : 0.5384479717813051
 ## Decision Tree: Results
 Accuracy : 0.7474747474747475
+
 Precision : 0.7585061443932412
+
 Recall : 0.5384479717813051
 ## Random Forest: Results
 Accuracy : 0.7474747474747475
+
 Precision : 0.7585061443932412
+
 Recall : 0.5384479717813051
 ## Overall Accuracy
-3   KNeighbours	          0.653420
-1	Decision Tree	      0.645102
-0	Logistic Regression	  0.628466
-2	Random Forest	      0.628466
 ![Accuracy](https://github.com/PriyaParirajan/water-quality-analysis/assets/114174702/33a9d802-63a6-4437-b768-dd6bb1cb2536)
 
 
